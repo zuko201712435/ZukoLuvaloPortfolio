@@ -42,7 +42,6 @@ export default function Home() {
     <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
   </div>
 
-  <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="la.jpg" alt="Los Angeles" class="d-block w-100">
@@ -55,7 +54,6 @@ export default function Home() {
     </div>
   </div>
 
-  <!-- Left and right controls/icons -->
   <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
     <span class="carousel-control-prev-icon"></span>
   </button>
