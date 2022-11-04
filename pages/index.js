@@ -50,7 +50,7 @@ export default function Home() {
       <img src="chicago.jpg" alt="Chicago" class="d-block w-100"/>
     </div>
     <div class="carousel-item">
-      <img src="ny.jpg" alt="New York" class="d-block w-100/">
+      <img src="ny.jpg" alt="New York" class="d-block w-100"/>
     </div>
   </div>
 
