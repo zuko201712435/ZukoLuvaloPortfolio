@@ -37,7 +37,6 @@ background-color: #CDDCDC;
   <li><a href="https://drive.google.com/file/d/1BfO8W6nEL2B7CRoqmx_ek9q4vPELJSyf/view?usp=sharing">RPA Certificate</a></li>
 </ul>
   </div>
-<body  id="body-pd" class ="container-fluid">
   <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="#">About</a>
@@ -145,9 +144,9 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
           This graduate program is my best opportunity to be mentored in the field of software development thus allowing me to strengthen the technical skills that I may be lacking in order to become a software developer. Through this learnership I would like to become a part of a custom software development company that provides complete software design and development services.
  </p>
           </a> 
-          </div>
+        
       </div>
-  </body>
+
       </main>
 
       <footer>
