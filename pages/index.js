@@ -127,7 +127,7 @@ Businesses are constantly looking for more convenience, automation of tedious ta
           </a>
 
           <a className="card">
-            <h3>Why are you passionate about software developmet? &rarr;</h3>
+            <h3>Why am I passionate about software developmet?</h3>
             <p>
 I am passionate about creating quality software because Coding is a very direct way to realize that goal. But it is not the only way.
 I think a passion for creation is a good thing in a person. Coding is a very real form of creation.
@@ -145,8 +145,6 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
  </p>
           </a> 
         
-      </div>
-
       </main>
 
       <footer>
