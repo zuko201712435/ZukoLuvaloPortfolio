@@ -158,7 +158,7 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
         </a>
       </footer>
 
-      <style jsx>{
+      <style jsx>{`
   
       .sidenav {
   height: 100%; 
