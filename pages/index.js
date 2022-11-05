@@ -24,10 +24,11 @@ export default function Home() {
 background-color: #CDDCDC;
  background-image: radial-gradient(at 50% 100%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), linear-gradient(to bottom, rgba(255,255,255,0.25) 0%, rgba(0,0,0,0.25) 100%);
  background-blend-mode: screen, overlay">
-<ul className="Nav">
-    <div class="container-fluid"> <a class="navbar-brand" href="#">
+ <div class="container-fluid"> <a class="navbar-brand" href="#">
       <img src="https://github.com/zuko201712435/ZukoLuvaloPortfolio/blob/main/pages/logosovtech.png alt="Avatar Logo" style="width:40px" class="rounded-pill"/> 
-    </a>   </div>
+    </a>   
+  <ul className="Nav">
+   
     
       
   <li><a href="https://www.linkedin.com/in/zuko-luvalo-6a6858197">LinkedIn Profile</a></li>
@@ -35,6 +36,7 @@ background-color: #CDDCDC;
   <li><a href="https://drive.google.com/file/d/1AaWw5lQzsJxPY1R_jZD5FZu0xNu_h_lw/view?usp=sharing">Latest Transcript</a></li>
   <li><a href="https://drive.google.com/file/d/1BfO8W6nEL2B7CRoqmx_ek9q4vPELJSyf/view?usp=sharing">RPA Certificate</a></li>
 </ul>
+  </div>
 <body  id="body-pd" class ="container-fluid">
   <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
