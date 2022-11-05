@@ -144,9 +144,10 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
           This graduate program is my best opportunity to be mentored in the field of software development thus allowing me to strengthen the technical skills that I may be lacking in order to become a software developer. Through this learnership I would like to become a part of a custom software development company that provides complete software design and development services.
  </p>
           </a> 
-        
+          </div>
+        </div>
       </main>
-
+</div>
       <footer>
         <a
           target="_blank"
