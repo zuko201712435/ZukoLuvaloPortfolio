@@ -26,7 +26,7 @@ background-color: #CDDCDC;
  background-blend-mode: screen, overlay">
 <ul className="Nav">
     <div class="container-fluid"> <a class="navbar-brand" href="#">
-      <img src="https://github.com/zuko201712435/ZukoLuvaloPortfolio/blob/main/pages/logosovtech.png alt="Avatar Logo" style="width:40px;" class="rounded-pill"/> 
+      <img src="https://github.com/zuko201712435/ZukoLuvaloPortfolio/blob/main/pages/logosovtech.png alt="Avatar Logo" style="width:40px" class="rounded-pill"/> 
     </a>   </div>
     
       
