@@ -158,7 +158,7 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
         </a>
       </footer>
 
-      <style jsx>{`
+      <style>
   
       .sidenav {
   height: 100%; 
@@ -372,7 +372,7 @@ body {
             flex-direction: column;
           }
         }
-      `}</style>
+      </style>
 
       <style jsx global>{`
         html,
