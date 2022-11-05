@@ -25,7 +25,7 @@ background-color: #CDDCDC;
  background-image: radial-gradient(at 50% 100%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), linear-gradient(to bottom, rgba(255,255,255,0.25) 0%, rgba(0,0,0,0.25) 100%);
  background-blend-mode: screen, overlay">
  <div class="container-fluid"> <a class="navbar-brand" href="#">
-      <img src="https://github.com/zuko201712435/ZukoLuvaloPortfolio/blob/main/pages/logosovtech.png alt="Avatar Logo" class="rounded-pill"/> 
+      <img src="https://github.com/zuko201712435/ZukoLuvaloPortfolio/blob/main/pages/logosovtech.png" alt="Avatar Logo" style="width:40px" class="rounded-pill"/> 
     </a>   
   <ul className="Nav">
    
@@ -58,7 +58,7 @@ background-color: #CDDCDC;
       <img src="https://i.pinimg.com/236x/ed/86/62/ed866280b61bffb265008f94b2ae222a.jpg" class="img-fluid" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
-        <blockquote class="blockquote"><p>Software Engineering business stream </p></blockquote>
+        <blockquote class="blockquote">Software Engineering business stream </p></blockquote>
       </div>
     </div>
     <div class="carousel-item container-md"">
@@ -68,13 +68,13 @@ background-color: #CDDCDC;
           <p>I am excited to join this Graduate Program taking placea world-class African company </p>
       </div>
     </div>
-    <div class="carousel-item container-md">
+    <div class="carousel-item container-md"">
       <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" class="img-fluid" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
-   <li>BE THE BEST</li>
-<li>BE BETTER</li>
+   <li>   THE BEST</li>
+<li> BE BETTER</li>
 <li><UNIQUENESS</li>
 <li>TALENT IS EVENLY DISTRIBUTED but
 OPPORTUNITY IS NOT</li>
