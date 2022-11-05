@@ -25,7 +25,7 @@ background-color: #CDDCDC;
  background-image: radial-gradient(at 50% 100%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), linear-gradient(to bottom, rgba(255,255,255,0.25) 0%, rgba(0,0,0,0.25) 100%);
  background-blend-mode: screen, overlay">
  <div class="container-fluid"> <a class="navbar-brand" href="#">
-      <img src="https://github.com/zuko201712435/ZukoLuvaloPortfolio/blob/main/pages/logosovtech.png alt="Avatar Logo" style="width:40px" class="rounded-pill"/> 
+      <img src="https://github.com/zuko201712435/ZukoLuvaloPortfolio/blob/main/pages/logosovtech.png alt="Avatar Logo" class="rounded-pill"/> 
     </a>   
   <ul className="Nav">
    
