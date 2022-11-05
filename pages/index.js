@@ -144,7 +144,8 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
            I am currently looking for an opportunity to gain more experience in the field of software development because I have gained a lot of experience in the field of data governance and providing information as a service but I have not been awarded the opportunity to develop software solutions outside of Robotic Process Automation.
           This graduate program is my best opportunity to be mentored in the field of software development thus allowing me to strengthen the technical skills that I may be lacking in order to become a software developer. Through this learnership I would like to become a part of a custom software development company that provides complete software design and development services.
  </p>
-          </a>
+          </a> 
+          </div>
       </div>
   </body>
       </main>
