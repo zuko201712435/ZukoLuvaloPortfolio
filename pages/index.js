@@ -58,10 +58,11 @@ background-color: #CDDCDC;
       <img src="https://i.pinimg.com/236x/ed/86/62/ed866280b61bffb265008f94b2ae222a.jpg" class="img-fluid" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
-        <blockquote class="blockquote">Software Engineering business stream </p></blockquote>
+        <blockquote class="blockquote">
+          <p>Software Engineering business stream </p></blockquote>
       </div>
     </div>
-    <div class="carousel-item container-md"">
+    <div class="carousel-item container-md">
       <img src="https://i.pinimg.com/236x/8e/ee/04/8eee04aeefee34699b413b5a55079b82.jpg" class="img-fluid" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Sovtec Graduate Program 2023</h5>
