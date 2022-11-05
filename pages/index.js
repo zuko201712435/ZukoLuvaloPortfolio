@@ -160,7 +160,7 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
 
       <style>{
   
-      .sidenav {
+      sidenav {
   height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
   position: fixed; /* Stay in place */
@@ -172,7 +172,7 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
-.sidenav a {
+sidenav a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
@@ -198,7 +198,7 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
-.wrapper .sidebar{
+wrapper sidebar{
     background: rgb(5, 68, 104);
     position: fixed;
     top: 0;
