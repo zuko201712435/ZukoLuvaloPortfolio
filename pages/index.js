@@ -74,12 +74,12 @@ background-color: #CDDCDC;
       <div class="carousel-caption d-none d-md-block">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
-   <li>BE THE BEST</li>
-<li>BE BETTER</li>
-<li><UNIQUENESS</li>
-<li>TALENT IS EVENLY DISTRIBUTED but
-OPPORTUNITY IS NOT</li>
-    <li>BENCHMARK & IMPROVE</li>
+   <li><a href="#">BE THE BEST</a></li>
+<li><a href="#">BE BETTER</a></li>
+<li><a href="#">UNIQUENESS</a></li>
+<li><a href="#">TALENT IS EVENLY DISTRIBUTED but
+OPPORTUNITY IS NOT</a></li>
+    <li><a href="#">BENCHMARK & IMPROVE</a></li>
     </ol>
     
       </div>
