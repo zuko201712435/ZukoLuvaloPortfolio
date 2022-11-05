@@ -58,7 +58,7 @@ background-color: #CDDCDC;
       <img src="https://i.pinimg.com/236x/ed/86/62/ed866280b61bffb265008f94b2ae222a.jpg" class="img-fluid" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
-        <blockquote class="blockquote">Software Engineering business stream </p></blockquote>
+        <blockquote class="blockquote"><p>Software Engineering business stream </p></blockquote>
       </div>
     </div>
     <div class="carousel-item container-md"">
@@ -73,8 +73,8 @@ background-color: #CDDCDC;
       <div class="carousel-caption d-none d-md-block">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
-   <li>   THE BEST</li>
-<li> BE BETTER</li>
+   <li>BE THE BEST</li>
+<li>BE BETTER</li>
 <li><UNIQUENESS</li>
 <li>TALENT IS EVENLY DISTRIBUTED but
 OPPORTUNITY IS NOT</li>
