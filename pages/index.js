@@ -19,7 +19,7 @@ export default function Home() {
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
   
-    <style>{
+     <style jsx>{`
     
 #firstSlide {
   background-color: yellow;
@@ -33,7 +33,7 @@ export default function Home() {
   background-color: blue;
      width: 1200px;
 }
-}
+`}
 </style>
      </Head>
 
