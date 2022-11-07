@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Zuko Luvalo's Portfolio<</title>
         <link rel="icon" href="/favicon.ico" />
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
@@ -24,6 +24,7 @@ export default function Home() {
   
 
 <ul className="Nav">
+  <li><img src="https://43cvff3e0qj249vcceebsqc1-wpengine.netdna-ssl.com/wp-content/uploads/sites/29/2019/07/sovtech_logo-2.png" class="logo" alt="..."/> </li>
   <li><a href="https://www.linkedin.com/in/zuko-luvalo-6a6858197">LinkedIn Profile</a></li>
   <li><a href="https://drive.google.com/file/d/1g6yfMIyorhRezV6Jnq1pwEmsgcQMMPAM/view?usp=sharing">Sovtech Video Entry</a></li>
   <li><a href="https://drive.google.com/file/d/1AaWw5lQzsJxPY1R_jZD5FZu0xNu_h_lw/view?usp=sharing">Latest Transcript</a></li>
@@ -32,7 +33,7 @@ export default function Home() {
        
 
 <h1 className="title">
-            Welcome to Zuko Luvalo's Portfolio
+           <a> Welcome to Zuko Luvalo's Portfolio<</a>
         </h1>
           <div id="carouselExampleCaptions" class="carousel slide carousel-fade container-fluid" data-bs-ride="carousel">
   <div class="carousel-indicators">
@@ -42,24 +43,25 @@ export default function Home() {
   </div>
   <div class="carousel-inner container-fluid">
     <div class="carousel-item active container-fluid">
-     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="1200px" alt="..." class="img-fluid"/>
+     <img src="https://pngtree.com/freebackground/technology-network-it-poster-banner-background_864222.html?share=3"  height="400px" width="1200px" alt="..." class="img-fluid"/>
     
        <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
         <blockquote class="blockquote">
-          <p>Software Engineering business stream </p></blockquote>
+          <p>Sovtec 2023 Software Engineering business stream </p></blockquote>
       </div>
     </div>
     <div class="carousel-item ">
-     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="200px" class="img-fluid" alt="..."/>
-    
+      <img src="  https://pngtree.com/freebackground/technology-network-it-poster-banner-background_864222.html?share=3
+  "  height="400px" width="1200px" alt="..." class="img-fluid"/>
+  
       <div class="carousel-caption">
         <h5>Sovtec Graduate Program 2023</h5>
           <p>I am excited to join this Graduate Program taking placea world-class African company </p>
       </div>
     </div>
     <div class="carousel-item container-fluid">
-      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="200px" class="img-fluid" alt="..."/>
+      <img src="https://pngtree.com/freebackground/abstract-blue-and-white-background_322099.html" height="400px" width="1200px" class="img-fluid" alt="..."/>
       <div class="carousel-caption">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
@@ -172,21 +174,24 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #424242
+  background: linear-gradient(to bottom, #D5DEE7 0%, #E8EBF2 50%, #E2E7ED 100%), linear-gradient(to bottom, rgba(0,0,0,0.02) 50%, rgba(255,255,255,0.02) 61%, rgba(0,0,0,0.02) 73%), linear-gradient(33deg, rgba(255,255,255,0.20) 0%, rgba(0,0,0,0.20) 100%);
+ background-blend-mode: normal,color-burn;
 }
 li {
   float: left;
 }
 li a {
   display: block;
-  color: white;
+  color: background-image: linear-gradient(-225deg, #7DE2FC 0%, #B9B6E5 100%);;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: Tahoma, Verdana, sans-serif;
+   font-weight: bold;
 }
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: #FF8A65;
+ background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
 }
         .container {
           min-height: 100vh;
