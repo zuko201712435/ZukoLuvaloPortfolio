@@ -58,7 +58,7 @@ export default function Home() {
       </div>
     </div>
     <div class="carousel-item container-md">
-      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" class="img-fluid" style="width: 100%;" alt="..."/>
+      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" class="img-fluid" style="width: 100%" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
