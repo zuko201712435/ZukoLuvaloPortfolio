@@ -41,9 +41,9 @@ export default function Home() {
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
-  <div class="carousel-inner container-md">
-    <div class="carousel-item active container-md">
-      <img src="https://i.pinimg.com/236x/ed/86/62/ed866280b61bffb265008f94b2ae222a.jpg" class="img-fluid" alt="..."/>
+  <div class="carousel-inner container">
+    <div class="carousel-item active container">
+      <img src="https://i.pinimg.com/236x/ed/86/62/ed866280b61bffb265008f94b2ae222a.jpg" class="img-fluid" style="width: 100%" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
         <blockquote class="blockquote">
@@ -51,14 +51,14 @@ export default function Home() {
       </div>
     </div>
     <div class="carousel-item container-md">
-      <img src="https://i.pinimg.com/236x/8e/ee/04/8eee04aeefee34699b413b5a55079b82.jpg" class="img-fluid" alt="..."/>
+      <img src="https://i.pinimg.com/236x/8e/ee/04/8eee04aeefee34699b413b5a55079b82.jpg" style="width: 100%" class="img-fluid" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Sovtec Graduate Program 2023</h5>
           <p>I am excited to join this Graduate Program taking placea world-class African company </p>
       </div>
     </div>
     <div class="carousel-item container-md">
-      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" class="img-fluid" alt="..."/>
+      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" class="img-fluid" style="width: 100%;" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
