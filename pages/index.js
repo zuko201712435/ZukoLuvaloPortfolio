@@ -35,30 +35,32 @@ export default function Home() {
 <h1 className="title">
             Welcome to Zuko Luvalo's Portfolio
         </h1>
-          <div id="carouselExampleCaptions" class="carousel slide carousel-fade container" data-bs-ride="carousel">
+          <div id="carouselExampleCaptions" class="carousel slide carousel-fade container-fluid" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
-  <div class="carousel-inner container-md">
-    <div class="carousel-item active container-md">
-      <img src="https://i.pinimg.com/236x/ed/86/62/ed866280b61bffb265008f94b2ae222a.jpg" style="max-width:1200px" alt="..."/>
-      <div class="carousel-caption d-none d-md-block">
+  <div class="carousel-inner container-fluid">
+    <div class="carousel-item active container-fluid">
+     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" alt="..."/>
+    
+       <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
         <blockquote class="blockquote">
           <p>Software Engineering business stream </p></blockquote>
       </div>
     </div>
-    <div class="carousel-item container-md">
-      <img src="https://i.pinimg.com/236x/8e/ee/04/8eee04aeefee34699b413b5a55079b82.jpg"  style="max-width:1200px" alt="..."/>
+    <div class="carousel-item container-fluid">
+     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" alt="..."/>
+    
       <div class="carousel-caption d-none d-md-block">
         <h5>Sovtec Graduate Program 2023</h5>
           <p>I am excited to join this Graduate Program taking placea world-class African company </p>
       </div>
     </div>
-    <div class="carousel-item container-md">
-      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" c style="max-width:1200px" alt="..."/>
+    <div class="carousel-item container-fluid">
+      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
