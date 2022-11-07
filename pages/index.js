@@ -1,4 +1,3 @@
-
 import Head from 'next/head'
 
 
@@ -19,22 +18,6 @@ export default function Home() {
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
   
-     <style jsx>{`
-    
-#firstSlide {
-  background-color: yellow;
-   width: 1200px;
-}
-#2ndSlide {
-  background-color: red;
-     width: 1200px;
-}
-#3ndSlide {
-  background-color: blue;
-     width: 1200px;
-}
-`}
-</style>
      </Head>
 
       <main>
@@ -59,9 +42,8 @@ export default function Home() {
   </div>
   <div class="carousel-inner container-fluid">
     <div class="carousel-item active container-fluid">
-   <div id="firstSlide">
-     
-     </div>
+     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="1200px" alt="..." class="img-fluid"/>
+    
        <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
         <blockquote class="blockquote">
@@ -69,18 +51,16 @@ export default function Home() {
       </div>
     </div>
     <div class="carousel-item ">
-    <div id="2ndSlide">
-     
-     </div>  
+     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="200px" class="img-fluid" alt="..."/>
+    
       <div class="carousel-caption">
         <h5>Sovtec Graduate Program 2023</h5>
           <p>I am excited to join this Graduate Program taking placea world-class African company </p>
       </div>
     </div>
     <div class="carousel-item container-fluid">
-    <div id="3ndSlide">
-     
-     </div>   <div class="carousel-caption">
+      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="200px" class="img-fluid" alt="..."/>
+      <div class="carousel-caption">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
    <li><a href="#">BE THE BEST</a></li>
@@ -171,7 +151,7 @@ I love to code because if I can think it, I can make it a reality.Unlike physics
       </footer>
 
       <style jsx>{`
-          .img-stretch 
+          .img-fluid
           {
     background: rgb(5, 68, 104);
       max-width=100%;
@@ -350,3 +330,17 @@ body {
     </div>
   )
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
