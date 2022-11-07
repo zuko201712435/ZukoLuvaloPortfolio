@@ -43,7 +43,7 @@ export default function Home() {
   </div>
   <div class="carousel-inner container-fluid">
     <div class="carousel-item active container-fluid">
-     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" alt="..."/>
+     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="1200px" alt="..." class="img-fluid"/>
     
        <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
@@ -51,17 +51,17 @@ export default function Home() {
           <p>Software Engineering business stream </p></blockquote>
       </div>
     </div>
-    <div class="carousel-item container-fluid">
-     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" alt="..."/>
+    <div class="carousel-item ">
+     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="200px" class="img-fluid" alt="...">
     
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption">
         <h5>Sovtec Graduate Program 2023</h5>
           <p>I am excited to join this Graduate Program taking placea world-class African company </p>
       </div>
     </div>
     <div class="carousel-item container-fluid">
-      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" alt="..."/>
-      <div class="carousel-caption d-none d-md-block">
+      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  width="200px" class="img-fluid" alt="...">
+      <div class="carousel-caption">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
    <li><a href="#">BE THE BEST</a></li>
