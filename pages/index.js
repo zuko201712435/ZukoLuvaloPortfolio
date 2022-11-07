@@ -19,6 +19,22 @@ export default function Home() {
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
   
+    <style>{
+    
+#firstSlide {
+  background-color: yellow;
+   width: 1200px;
+}
+#2ndSlide {
+  background-color: red;
+     width: 1200px;
+}
+#3ndSlide {
+  background-color: blue;
+     width: 1200px;
+}
+}
+</style>
      </Head>
 
       <main>
@@ -43,8 +59,9 @@ export default function Home() {
   </div>
   <div class="carousel-inner container-fluid">
     <div class="carousel-item active container-fluid">
-     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  class="img-stretch" alt="..."/>
-    
+   <div id="firstSlide">
+     
+     </div>
        <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
         <blockquote class="blockquote">
@@ -52,16 +69,18 @@ export default function Home() {
       </div>
     </div>
     <div class="carousel-item ">
-     <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  class="img-stretch" alt="..."/>
-    
+    <div id="2ndSlide">
+     
+     </div>  
       <div class="carousel-caption">
         <h5>Sovtec Graduate Program 2023</h5>
           <p>I am excited to join this Graduate Program taking placea world-class African company </p>
       </div>
     </div>
     <div class="carousel-item container-fluid">
-      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg" class="img-stretch" alt="..."/>
-      <div class="carousel-caption">
+    <div id="3ndSlide">
+     
+     </div>   <div class="carousel-caption">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
    <li><a href="#">BE THE BEST</a></li>
