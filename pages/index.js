@@ -42,24 +42,27 @@ export default function Home() {
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
   </div>
   <div class="carousel-inner container">
-    <div class="carousel-item active container">
-      <img src="https://i.pinimg.com/236x/ed/86/62/ed866280b61bffb265008f94b2ae222a.jpg"  style="width: 100%" alt="..."/>
-      <div class="carousel-caption d-none d-md-block">
+    <div class="carousel-item active container" style ="background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;">
+   
+    <div class="carousel-caption d-none d-md-block">
         <h5>Welcome to Zuko Luvalo's Portfolio </h5>
         <blockquote class="blockquote">
           <p>Software Engineering business stream </p></blockquote>
       </div>
     </div>
     <div class="carousel-item container-md">
-      <img src="https://i.pinimg.com/236x/8e/ee/04/8eee04aeefee34699b413b5a55079b82.jpg" style="width: 100%"  alt="..."/>
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-item active container" style ="background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;">
+   <div class="carousel-caption d-none d-md-block">
         <h5>Sovtec Graduate Program 2023</h5>
           <p>I am excited to join this Graduate Program taking placea world-class African company </p>
       </div>
     </div>
     <div class="carousel-item container-md">
-      <img src="https://i.pinimg.com/236x/63/f5/66/63f566eeb91c2d424a6627671b9b911f.jpg"  style="width: 100%" alt="..."/>
-      <div class="carousel-caption d-none d-md-block">
+    <div class="carousel-item active container" style ="background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+ background-blend-mode: multiply,multiply;">
+     <div class="carousel-caption d-none d-md-block">
         <h5>What does it mean to us?</h5>
     <ol className="list"> 
    <li><a href="#">BE THE BEST</a></li>
