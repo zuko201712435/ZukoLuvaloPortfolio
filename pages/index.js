@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@zuko201712435 
-zuko201712435
-/
-ZukoLuvaloPortfolio
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-ZukoLuvaloPortfolio/pages/index.js /
-@zuko201712435
-zuko201712435 Update index.js
-Latest commit 87b16da 2 days ago
- History
- 1 contributor
-327 lines (270 sloc)  45.1 KB
 
 import Head from 'next/head'
 
