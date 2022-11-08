@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Zuko Luvalo's Portfolio<</title>
+        <title>Zuko.Luvalo </title>
         <link rel="icon" href="/favicon.ico" />
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
@@ -202,7 +202,7 @@ li a:hover {
           align-items: center;
         }
         main {
-          padding: 2rem 0;
+          padding: 1rem 0;
           flex: 1;
           display: flex;
           flex-direction: column;
