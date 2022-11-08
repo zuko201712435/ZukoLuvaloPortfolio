@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Zuko.Luvalo </title>
+        <title>Zuko.Luvalo</title>
         <link rel="icon" href="/favicon.ico" />
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
@@ -33,7 +33,7 @@ export default function Home() {
        
 
 <h1 className="title">
-           <a> Welcome to Zuko Luvalo's Portfolio</a>
+           <a>Welcome to Zuko Luvalo's Portfolio<</a>
         </h1>
           <div id="carouselExampleCaptions" class="carousel slide carousel-fade container-fluid" data-bs-ride="carousel">
   <div class="carousel-indicators">
@@ -335,17 +335,3 @@ body {
     </div>
   )
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
