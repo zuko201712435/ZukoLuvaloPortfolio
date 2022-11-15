@@ -33,7 +33,7 @@ export default function Home() {
        
 
 <h1 className="title">
-           <a>Welcome to Zuko Luvalo's Portfolio<</a>
+           <a>Welcome to Zuko Luvalo's Portfolio</a>
         </h1>
           <div id="carouselExampleCaptions" class="carousel slide carousel-fade container-fluid" data-bs-ride="carousel">
   <div class="carousel-indicators">
