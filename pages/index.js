@@ -24,7 +24,7 @@ export default function Home() {
   
 
 <ul className="Nav">
-  <li><img src="https://43cvff3e0qj249vcceebsqc1-wpengine.netdna-ssl.com/wp-content/uploads/sites/29/2019/07/sovtech_logo-2.png" class="logo" alt="..."/> </li>
+  <li><a><img src="https://43cvff3e0qj249vcceebsqc1-wpengine.netdna-ssl.com/wp-content/uploads/sites/29/2019/07/sovtech_logo-2.png"  height="80px" width="100px"  class="logo" alt="..."/> </a></li>
   <li><a href="https://www.linkedin.com/in/zuko-luvalo-6a6858197">LinkedIn Profile</a></li>
   <li><a href="https://drive.google.com/file/d/1g6yfMIyorhRezV6Jnq1pwEmsgcQMMPAM/view?usp=sharing">Sovtech Video Entry</a></li>
   <li><a href="https://drive.google.com/file/d/1AaWw5lQzsJxPY1R_jZD5FZu0xNu_h_lw/view?usp=sharing">Latest Transcript</a></li>
